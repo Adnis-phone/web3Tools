@@ -1,19 +1,12 @@
 {
-  "name": "tea-project",
+  "name": "web3Tools",
   "version": "1.0.0",
-  "description": "tea",
+  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/Adnis-phone/tea-project.git"
-  },
-  "author": "adnis",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/Adnis-phone/tea-project/issues"
-  },
-  "homepage": "https://github.com/Adnis-phone/tea-project#readme"
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
 }
